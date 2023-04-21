@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@stdlib/math-base-special-gcd": "^0.0.7"
+  }
+}
